@@ -1,1 +1,0 @@
-import{_ as a}from"./KidForm.ed1fb5f9.js";import{_ as o}from"./UserFrom.128efaa1.js";import{d as m,o as n,c as r,a as e}from"./index.2b8c0a56.js";const f=m({name:"HomeView",setup(t){return(s,c)=>(n(),r("main",null,[e(a),e(o)]))}});export{f as default};
