@@ -1,1 +1,0 @@
-import{_ as e}from"./UserFrom.f1e57f66.js";import{d as a,o,c as n,a as r}from"./index.021a874d.js";const p=a({__name:"UserView",setup(t){return(s,c)=>(o(),n("main",null,[r(e)]))}});export{p as default};

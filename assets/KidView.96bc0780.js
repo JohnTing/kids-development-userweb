@@ -1,0 +1,1 @@
+import{_ as e}from"./KidForm.a47f8b5a.js";import{d as a,o,c as n,a as t}from"./index.a9d9de7e.js";const i=a({__name:"KidView",setup(r){return(c,s)=>(o(),n("main",null,[t(e)]))}});export{i as default};
