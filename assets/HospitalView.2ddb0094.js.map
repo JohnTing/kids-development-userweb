@@ -1,0 +1,1 @@
+{"version":3,"mappings":"8GACM,QAAe,IAAM","names":[],"sources":["../../src/views/HospitalView.vue"],"sourcesContent":["<script setup lang=\"ts\">\nconst HospitalFrom = () => import('@/components/HospitalFrom.vue') \n\n</script>\n<template>\n  <main>\n    <HospitalFrom/>\n  </main>\n</template>"],"file":"assets/HospitalView.2ddb0094.js"}
