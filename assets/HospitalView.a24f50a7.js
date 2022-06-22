@@ -1,2 +1,0 @@
-import"./papaparse.min.2786dcc2.js";import{l as s,o as c,c as p,e as l}from"./index.2d46f6a2.js";import"./_commonjsHelpers.4e997714.js";var _=(o,e)=>{const t=o.__vccOpts||o;for(const[r,a]of e)t[r]=a;return t};const i={};function m(o,e,t,r,a,f){const n=s("HospitalFrom");return c(),p("main",null,[l(n)])}var $=_(i,[["render",m]]);export{$ as default};
-//# sourceMappingURL=HospitalView.a24f50a7.js.map
