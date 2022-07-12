@@ -1,0 +1,52 @@
+{
+    "assets/month04.json": {
+        "title": "4個月（3個月16天 ~ 5個月15天）",
+        "min": 106,
+        "max": 165
+    },
+    "assets/month06.json": {
+        "title": "6個月（5個月16天 ~ 8個月15天）",
+        "min": 166,
+        "max": 255
+    },
+    "assets/month09.json": {
+        "title": "9個月（8個月16天 ~ 11個月15天）",
+        "min": 256,
+        "max": 345
+    },
+    "assets/month10.json": {
+        "title": "1歲（11個月16天 ~ 1歲2個月15天）",
+        "min": 346,
+        "max": 440
+    },
+    "assets/month13.json": {
+        "title": "1歲3個月（1歲2個月16天 ~ 1歲5個月15天）",
+        "min": 440,
+        "max": 530
+    },
+    "assets/month15.json": {
+        "title": "1歲半（1歲5個月16天 ~ 1歲11個月15天）",
+        "min": 531,
+        "max": 710
+    },
+    "assets/month20.json": {
+        "title": "2歲（1歲11個月16天 ~ 2歲5個月15天）",
+        "min": 711,
+        "max": 895
+    },
+    "assets/month25.json": {
+        "title": "2歲半（2歲5個月16天 ~ 2歲11個月15天）",
+        "min": 896,
+        "max": 1075
+    },
+    "assets/month30.json": {
+        "title": "3歲（2歲11個月16天 ~ 3歲5個月15天）",
+        "min": 1076,
+        "max": 1260
+    },
+    "assets/month35.json": {
+        "title": "3歲半（3歲5個月16天 ~ 3歲11個月15天）",
+        "min": 1261,
+        "max": 1440
+    }
+}
